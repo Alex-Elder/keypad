@@ -6,9 +6,6 @@ version: 1.0
 tags:
   - cpp
   - js
-  #- hw
-  #- docs:drivers:Keypad
-
 sources:
   - src
 includes:
